@@ -1,16 +1,16 @@
-# 🚶 Pedestrian Detection dengan HOG + SVM
+# Pedestrian Detection dengan HOG + SVM
 
 Proyek ini mengimplementasikan **deteksi pejalan kaki** menggunakan metode **HOG (Histogram of Oriented Gradients)** dikombinasikan dengan **SVM (Support Vector Machine)** bawaan OpenCV. Tersedia dua versi: deteksi pada gambar statis dan deteksi pada video/live stream.
 
 ---
 
-## 📸 Hasil Demo
+## Hasil Demo
 
 ### Deteksi pada Gambar
 
 > *Ganti bagian ini dengan screenshot hasil deteksi pada gambar*
 
-![Hasil Deteksi Gambar](hasil_gambar.png)
+![Hasil Deteksi Gambar](Gambar/image1.png)
 
 ---
 
@@ -18,7 +18,8 @@ Proyek ini mengimplementasikan **deteksi pejalan kaki** menggunakan metode **HOG
 
 > *Ganti bagian ini dengan GIF atau screenshot hasil deteksi pada video*
 
-![Hasil Deteksi Video](hasil_video.gif)
+![Hasil Deteksi Video](Gambar/vid1.png)
+![Hasil Deteksi Video](Gambar/vid2.png)
 
 ---
 
